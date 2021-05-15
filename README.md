@@ -4,4 +4,4 @@ A 3D model designed to be 3D printed. In default configraution will store Kamis 
 
 A picture says a thousand words.
 
-![](./spicey.scad)
+![](./spicey.png)
